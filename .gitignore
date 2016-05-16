@@ -1,3 +1,2 @@
-$ cat .gitignore
 tmp
-.test-result
+*.test-result
