@@ -1,0 +1,205 @@
+commit 0b0c19be6638b042ebfd38351bd53042b2311185
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 13:11:01 2016 +0300
+
+    1.txt commit 5
+
+commit 0a5dccf2d632076569f8929ea5fbc4356a88e2b0
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 13:08:24 2016 +0300
+
+    1.txt commit 4
+
+commit 4707cf51040c8aa9c06d86a1e4470c6d9399d015
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 13:07:16 2016 +0300
+
+    1.txt commit 3
+
+commit de1a205551f81800233d58bf671b249851592594
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 13:06:24 2016 +0300
+
+    1.txt commit 2
+
+commit ae86fddaba5860cd5c264f145bd6c841a8d33b24
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 13:05:07 2016 +0300
+
+    1.txt commit 1
+
+commit 96c75739bb1c84bc19746c3139437cea24809e31
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 12:06:30 2016 +0300
+
+    Revert revert.txt commit
+
+commit d073a329e037abc975b8fd7aded66f7753153084
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 11:18:14 2016 +0300
+
+    norevert.txt commit
+
+commit 20945ba25b04cbbdce27fd06137304a4ff21e5e8
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 11:15:59 2016 +0300
+
+    revert.txt commit
+
+commit a37e1759df60447a6d03eaa08d688da29a47234a
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 11:10:50 2016 +0300
+
+    commit log.txt
+
+commit 4df64ef10bc47d16bcf9cb85deb2780e32ddceff
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 11:01:13 2016 +0300
+
+    Changing commit name
+
+commit f4aec1382f78af164af9410e7a72f5ce4646f552
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:57:01 2016 +0300
+
+    branch "master" stash.txt commit
+
+commit 1e650a34df17f3015f37e764e4b1afa8a46b302f
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:39:47 2016 +0300
+
+    branch master stash.txt commit
+
+commit 424803209f546e2b7f61a7361a458e6050f19431
+Merge: cbb1ca3 12a93b2
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:37:32 2016 +0300
+
+    Merge branch 'feature.two'
+
+commit cbb1ca3a4cb45c2a16cb6dbb8f54a31e2336fc82
+Merge: 09248c9 7175b94
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:34:08 2016 +0300
+
+    Merge branch 'feature.one'
+
+commit 09248c9eac9395febab351178d7fcc7ebc8d2b75
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:26:50 2016 +0300
+
+    branch master merge.txt commit
+
+commit 12a93b221c94b00a082ff7dc49d8f45a3bae7624
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:24:02 2016 +0300
+
+    branch feature.two merge.txt commit
+
+commit 7175b94744d966014b0a4214c2c6ba9dff5d7618
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:21:44 2016 +0300
+
+    feature.one merge.txt commit
+
+commit 9d34a013784d0cb1b78474e2b77fba419cedb218
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 10:07:28 2016 +0300
+
+    branch feature.two commit
+
+commit 8e2a490511af24bb588238d271e87825174b35be
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 09:59:32 2016 +0300
+
+    feature.one commit
+
+commit f808b5a4e4bb3a52e16ede684a2488f5798c1ee8
+Author: Litvinov <verdcs@gmail.com>
+Date:   Mon May 16 09:47:38 2016 +0300
+
+    14
+
+commit 0ade0b13f97f509f915c558d9968d47675243387
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 16:08:37 2016 +0300
+
+    "13"
+
+commit 3f13deada02f6344193b19209fbd93ec239b3f95
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 15:48:28 2016 +0300
+
+    "12"
+
+commit 0532ed0bf5f0cb400ae350cf9d08c583e74be2bf
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:57:17 2016 +0300
+
+    "11"
+
+commit d22ee151e0c3f4a710b933770a646e07ff2bac69
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:41:30 2016 +0300
+
+    "#10"
+
+commit 08bd4e141669186f69e82182ab021acf9869d91f
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:39:36 2016 +0300
+
+    "#9"
+
+commit dc0a4bbd878d65a4ce8a95d0f28b3d2fc806d981
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:36:46 2016 +0300
+
+    "#8"
+
+commit e60265177a4a3847d4f0dbfa18234074ebd9d21a
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:31:31 2016 +0300
+
+    "#7"
+
+commit 4de48bf02a9657204eb5331b40cfc16bff04b479
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:29:10 2016 +0300
+
+    "#6"
+
+commit 53688ec1100338d0bdea54e049179b86d6ab3fc0
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:15:47 2016 +0300
+
+    " #5"
+
+commit 324b47d7bf12516f2ccf94eebd25e14ec5133348
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:10:21 2016 +0300
+
+    "commit #4"
+
+commit 39752b663661b407c6a8aa26aec9e67d133be5cd
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 14:04:07 2016 +0300
+
+    "commit # 3"
+
+commit 1560e9ee54aa016025e6a7c226136cf28f3d2336
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 13:48:59 2016 +0300
+
+    "some line"
+
+commit 9c55dcb1a2e16cf0396aa27d824f40e63001bdad
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 13:44:11 2016 +0300
+
+    "Repository initialized"
+
+commit bc13ab08cd0ced2b196849fd6c5742891aebce46
+Author: Litvinov <verdcs@gmail.com>
+Date:   Fri May 13 13:41:00 2016 +0300
+
+    "message"
